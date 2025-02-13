@@ -1,7 +1,6 @@
+
 - 👋 Hi, I’m @zipoyy
 - 👀 Akuu punya hobi : Olahraga, Nyanyi, Main gitar dll
-- 🌱 I’m currently learning HTML
-- 😄 Pronouns: he/her
 - ⚡ Fun fact: tidur dimanapun
 
 <!---
